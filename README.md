@@ -45,7 +45,7 @@ Acceso integrado banner
 <div class="icon-container">
 
     <div class="icon-box">
-        <a href="https://www.google.com">
+        <a href="https://(https://selferviceprd.santotomas.cl/menu/)">
             <img src="https://cdn-icons-png.flaticon.com/512/300/300221.png">
         </a>
         <div class="label">Google</div>
